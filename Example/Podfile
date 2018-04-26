@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ShareImage_Example' do
+  pod 'ShareImage', :path => '../'
+
+  target 'ShareImage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

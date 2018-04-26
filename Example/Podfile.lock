@@ -1,0 +1,16 @@
+PODS:
+  - ShareImage (0.1.0)
+
+DEPENDENCIES:
+  - ShareImage (from `../`)
+
+EXTERNAL SOURCES:
+  ShareImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ShareImage: eda10f82ce7e873aae2ce2cc94420b2988c4e57c
+
+PODFILE CHECKSUM: 739bf5891c92545dd7f6628ba99f8dea0640c100
+
+COCOAPODS: 1.5.0

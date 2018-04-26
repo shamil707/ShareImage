@@ -1,0 +1,6 @@
+framework module Pods_ShareImage_Example {
+  umbrella header "Pods-ShareImage_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

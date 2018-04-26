@@ -1,0 +1,6 @@
+framework module ShareImage {
+  umbrella header "ShareImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

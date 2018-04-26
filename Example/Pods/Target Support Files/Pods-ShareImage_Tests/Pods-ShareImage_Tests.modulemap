@@ -1,0 +1,6 @@
+framework module Pods_ShareImage_Tests {
+  umbrella header "Pods-ShareImage_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -28,12 +28,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1256621CDC87A17994D8799B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		1256621CDC87A17994D8799B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		2841609B4908D7F125E95A43 /* Pods-ShareImage_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShareImage_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ShareImage_Example/Pods-ShareImage_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		30B7DB76710B05D9E0383453 /* Pods_ShareImage_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShareImage_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		42F281DFA83E09665DECA0D0 /* Pods_ShareImage_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShareImage_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CE09BE2FF5943CCA1256C70 /* Pods-ShareImage_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShareImage_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ShareImage_Tests/Pods-ShareImage_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		574E54DE31E498B77CB1D3D7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		574E54DE31E498B77CB1D3D7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* ShareImage_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShareImage_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		607FACE51AFB9204008FA782 /* ShareImage_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShareImage_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		64FA4A3E28DAFAF96A507237 /* ShareImage.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ShareImage.podspec; path = ../ShareImage.podspec; sourceTree = "<group>"; };
+		64FA4A3E28DAFAF96A507237 /* ShareImage.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ShareImage.podspec; path = ../ShareImage.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		75B7C03E8C3322B8ED2BD9AA /* Pods-ShareImage_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShareImage_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ShareImage_Example/Pods-ShareImage_Example.release.xcconfig"; sourceTree = "<group>"; };
 		8A80E4200C6CDA920CA0EE6A /* Pods-ShareImage_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShareImage_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ShareImage_Tests/Pods-ShareImage_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
